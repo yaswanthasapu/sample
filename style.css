@@ -10,7 +10,7 @@ div {
   color: rgb(10, 10, 10);
 }
 .banner {
-  background: url(./images/pexels1.jpg);
+  background: url(pexels1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -49,7 +49,7 @@ div {
   background-color: rgb(14, 12, 12);
 }
 .dig {
-  background-image: url(./images/pexels6.jpg);
+  background-image: url(pexels6.jpg);
   text-align-last: left;
   background-size: cover;
   background-repeat: no-repeat;
@@ -136,7 +136,7 @@ div {
   padding-bottom: 10px;
 }
 .jon {
-  background-image: url(./images/pexels2.jpg);
+  background-image: url(pexels2.jpg);
   background-size: cover;
 
   background-position: center;
