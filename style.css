@@ -1,0 +1,186 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+div {
+  min-height: 120vh;
+
+  color: rgb(10, 10, 10);
+}
+.banner {
+  background: url(./images/pexels1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-size: 80px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.banner h1 {
+  color: black;
+  padding: 5px;
+  padding-left: 3px;
+}
+.banner h3 {
+  color: white;
+  font-size: 45px;
+  text-align: left;
+  font-family: sans-serif;
+  padding-left: 20px;
+}
+.banner p {
+  color: rgb(255, 255, 255);
+  font-size: 50px;
+  text-align: right;
+  position: relative;
+  font-family: sans-serif;
+
+  right: 120px;
+}
+.banner button {
+  color: aliceblue;
+  padding: 10px;
+  position: relative;
+  left: 60%;
+  width: 30%;
+  top: -10px;
+  font-size: 20px;
+  background-color: rgb(14, 12, 12);
+}
+.dig {
+  background-image: url(./images/pexels6.jpg);
+  text-align-last: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.dig h1 {
+  color: white;
+  font-size: 80px;
+  text-align: left;
+  font-family: sans-serif;
+  top: 300px;
+  padding-left: 10px;
+  padding-top: 30px;
+}
+.dig p {
+  position: absolute;
+
+  color: white;
+  right: 25px;
+  top: 1650px;
+}
+.one {
+  background-color: rgb(255, 255, 255);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.one h2 {
+  color: black;
+  font-size: 40px;
+  text-align: left;
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+
+.one img {
+  position: relative;
+  left: 300px;
+  bottom: 130px;
+  margin: 10px;
+}
+.one h3 {
+  position: relative;
+  font-size: 1.5em;
+  left: 310px;
+  bottom: 110px;
+}
+.one p {
+  font-size: 0.8em;
+  color: black;
+  position: relative;
+  left: 310px;
+  bottom: 110px;
+}
+
+.anna {
+  background-color: black;
+  padding: 10px;
+  width: 50%;
+  position: absolute;
+  background-size: cover;
+  min-height: 120vh;
+
+  background-repeat: no-repeat;
+  font-family: sans-serif;
+}
+.anna h1 {
+  color: white;
+  background-color: black;
+  font-size: 80px;
+  text-align: justify;
+  font-weight: bolder;
+  padding: 10px;
+}
+.anna p {
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  position: absolute;
+  bottom: 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+.jon {
+  background-image: url(./images/pexels2.jpg);
+  background-size: cover;
+
+  background-position: center;
+  width: 50%;
+  float: right;
+  margin: 0 auto;
+  bottom: -50px;
+  position: relative;
+  top: -18.5px;
+}
+.end {
+  background: rgb(255, 255, 255);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  position: relative;
+  top: 600px;
+}
+.end h1 {
+  color: rgb(3, 3, 3);
+  font-size: 100px;
+  text-align: left;
+  padding: 10px;
+}
+.end p {
+  color: black;
+  text-align: justify;
+  font-size: 25px;
+  position: relative;
+  left: 800px;
+  bottom: 270px;
+
+  padding-left: 10px;
+  padding-right: 50px;
+}
+.end button {
+  color: aliceblue;
+  padding: 10px;
+  position: relative;
+  background-size: cover;
+  left: 60%;
+  width: 30%;
+  top: -10px;
+  font-size: 20px;
+  background-color: rgb(14, 12, 12);
+}
